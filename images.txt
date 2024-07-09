@@ -6,3 +6,5 @@
 
 dhuar/teslamate:latest
 dhuar/grafana:latest
+adguard/adguardhome:latest
+blaize/retroarch
