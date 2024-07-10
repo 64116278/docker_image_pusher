@@ -4,6 +4,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+overv/openstreetmap-tile-server
 teslamate/teslamate:latest
 teslamate/grafana:latest
 adguard/adguardhome:latest
