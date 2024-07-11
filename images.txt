@@ -4,4 +4,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-teslamate/teslamate:latest
+ghcr.io/senmizu/teslamate/grafana:v1.30.1.1
