@@ -4,4 +4,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-ghcr.io/64116278/teslamate:buildcache-amd64-v1.30.0
+eclipse-mosquitto:2
+postgres:16
