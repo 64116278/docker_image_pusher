@@ -4,4 +4,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-dhuar/teslamate:1.29.2
+homeassistant/amd64-addon-samba
+homeassistant/amd64-addon-configurator
+homeassistant/amd64-addon-mosquitto
+homeassistant/amd64-addon-ssh
