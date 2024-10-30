@@ -4,7 +4,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-homeassistant/amd64-addon-samba
-homeassistant/amd64-addon-configurator
-homeassistant/amd64-addon-mosquitto
-homeassistant/amd64-addon-ssh
+grafana/grafana
+influxdb:1.11
