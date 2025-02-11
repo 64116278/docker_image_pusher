@@ -4,4 +4,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-homeassistant/amd64-addon-samba:12.4.0
+searxng/searxng:2025.2.9-a1e2b2546
