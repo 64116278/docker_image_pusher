@@ -4,4 +4,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-searxng/searxng:2025.2.9-a1e2b2546
+docker.io/library/caddy:2-alpine
+docker.io/valkey/valkey:8-alpine
